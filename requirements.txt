@@ -1,0 +1,7 @@
+pypdf
+PyPDF2
+pandas
+chromadb
+jupyterlab
+google-genai
+openpyxl
