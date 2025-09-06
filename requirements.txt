@@ -5,3 +5,4 @@ chromadb
 jupyterlab
 google-genai
 openpyxl
+google.generativeai
